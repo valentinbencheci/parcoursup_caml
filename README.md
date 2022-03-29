@@ -1,6 +1,7 @@
 # parcoursup_caml
 ```
-Le but de ce projet est d’explorer divers algorithmes de mariages stables, puis le fameux algorithme de Parcoursup, dans une version très simplifiée (pas d’internats, pas de boursiers, etc).
+Le but de ce projet est d’explorer divers algorithmes de mariages stables, puis le fameux algorithme de Parcoursup, 
+dans une version très simplifiée (pas d’internats, pas de boursiers, etc).
 ```
 
 **Les algorithmes du projet:**
