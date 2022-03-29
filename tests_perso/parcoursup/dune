@@ -1,0 +1,5 @@
+(library 
+  (name test_parcoursup_utils)
+  (libraries parcoursup)
+  (modules test_parcoursup_utils)
+)

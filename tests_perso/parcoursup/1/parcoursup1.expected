@@ -1,0 +1,61 @@
+nouvelle session
+ajoute candidat Adam
+ajoute candidat Olivie
+ajoute candidat Marie
+ajoute candidat Pierre
+ajoute candidat Alan
+ajoute formation Université Côte d'Azur (2 places)
+ajoute formation Université de Toulon (1 places)
+ajoute formation Université de Paris (1 places)
+ajoute voeu de Adam pour Université Côte d'Azur (rang=1)
+ajoute voeu de Olivie pour Université de Toulon
+ajoute voeu de Marie pour Université de Paris (rang=1)
+ajoute voeu de Pierre pour Université de Paris (rang=1)
+ajoute voeu de Alan pour Université de Paris (rang=1)
+commission de classement de Université Côte d'Azur : [Adam; Olivie; Marie; Pierre; Alan]
+commission de classement de Université de Toulon : [Adam; Olivie; Marie; Pierre; Alan]
+commission de classement de Université de Paris : [Adam; Olivie; Marie; Pierre; Alan]
+réunit commissions
+nouveau jour
+Voeux en attente de Adam : {}
+Propositions en attente de Adam : {Université Côte d'Azur}
+Voeux en attente de Olivie : {}
+Propositions en attente de Olivie : {Université de Toulon}
+Voeux en attente de Marie : {}
+Propositions en attente de Marie : {Université de Paris}
+Voeux en attente de Pierre : {Université de Paris(0)}
+Propositions en attente de Pierre : {}
+Voeux en attente de Alan : {Université de Paris(1)}
+Propositions en attente de Alan : {}
+Marie renonce à Université de Paris
+nouveau jour
+Voeux en attente de Marie : {}
+Propositions en attente de Marie : {}
+Voeux en attente de Pierre : {}
+Propositions en attente de Pierre : {Université de Paris}
+Voeux en attente de Alan : {Université de Paris(0)}
+Propositions en attente de Alan : {}
+Pierre renonce à Université de Paris
+nouveau jour
+Voeux en attente de Marie : {}
+Propositions en attente de Marie : {}
+Voeux en attente de Pierre : {}
+Propositions en attente de Pierre : {}
+Voeux en attente de Alan : {}
+Propositions en attente de Alan : {Université de Paris}
+Alan renonce à Université de Paris
+nouveau jour
+Voeux en attente de Marie : {}
+Propositions en attente de Marie : {}
+Voeux en attente de Pierre : {}
+Propositions en attente de Pierre : {}
+Voeux en attente de Alan : {}
+Propositions en attente de Alan : {}
+Alan renonce à Université de Paris
+nouveau jour
+Voeux en attente de Marie : {}
+Propositions en attente de Marie : {}
+Voeux en attente de Pierre : {}
+Propositions en attente de Pierre : {}
+Voeux en attente de Alan : {}
+Propositions en attente de Alan : {}

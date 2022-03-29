@@ -1,0 +1,56 @@
+nouvelle session
+ajoute candidat Adam
+ajoute candidat Olivier
+ajoute candidat Marie
+ajoute candidat Pierre
+ajoute candidat Alan
+ajoute candidat Hugo
+ajoute candidat Valentin
+ajoute formation Université Côte d'Azur (1 places)
+ajoute formation Université de Toulon (1 places)
+ajoute formation Université de Paris (1 places)
+ajoute voeu de Adam pour Université Côte d'Azur (rang=1)
+ajoute voeu de Olivier pour Université de Toulon
+ajoute voeu de Marie pour Université de Paris (rang=2)
+ajoute voeu de Pierre pour Université de Paris (rang=3)
+ajoute voeu de Alan pour Université Côte d'Azur (rang=4)
+ajoute voeu de Hugo pour Université de Paris (rang=5)
+ajoute voeu de Valentin pour Université de Toulon (rang=5)
+commission de classement de Université Côte d'Azur : [Adam; Olivier; Marie; Pierre; Alan; Hugo; Valentin]
+commission de classement de Université de Toulon : [Adam; Olivier; Marie; Pierre; Alan; Hugo; Valentin]
+commission de classement de Université de Paris : [Adam; Olivier; Marie; Pierre; Alan; Hugo; Valentin]
+réunit commissions
+nouveau jour
+Voeux en attente de Adam : {}
+Propositions en attente de Adam : {Université Côte d'Azur}
+Voeux en attente de Olivier : {}
+Propositions en attente de Olivier : {Université de Toulon}
+Voeux en attente de Marie : {}
+Propositions en attente de Marie : {Université de Paris}
+Voeux en attente de Pierre : {Université de Paris(0)}
+Propositions en attente de Pierre : {}
+Voeux en attente de Alan : {Université Côte d'Azur(0)}
+Propositions en attente de Alan : {}
+Voeux en attente de Hugo : {Université de Paris(1)}
+Propositions en attente de Hugo : {}
+Voeux en attente de Valentin : {Université de Toulon(0)}
+Propositions en attente de Valentin : {}
+Adam renonce à Université Côte d'Azur
+Olivier renonce à Université de Toulon
+Marie renonce à Université de Paris
+Pierre renonce à Université de Paris
+nouveau jour
+Voeux en attente de Adam : {}
+Propositions en attente de Adam : {}
+Voeux en attente de Olivier : {}
+Propositions en attente de Olivier : {}
+Voeux en attente de Marie : {}
+Propositions en attente de Marie : {}
+Voeux en attente de Pierre : {}
+Propositions en attente de Pierre : {}
+Voeux en attente de Alan : {}
+Propositions en attente de Alan : {Université Côte d'Azur}
+Voeux en attente de Hugo : {}
+Propositions en attente de Hugo : {Université de Paris}
+Voeux en attente de Valentin : {}
+Propositions en attente de Valentin : {Université de Toulon}

@@ -1,0 +1,22 @@
+nouvelle session
+ajoute candidat Adam
+ajoute candidat Leo
+ajoute candidat Adam
+ajoute formation Université Côte d'Azur (1 places)
+ajoute formation Université de Toulon (1 places)
+ajoute voeu de Adam pour Université Côte d'Azur (rang=1)
+ajoute voeu de Leo pour Université Côte d'Azur (rang=1)
+commission de classement de Université Côte d'Azur : [Adam; Leo]
+commission de classement de Université de Toulon : [Adam; Leo]
+réunit commissions
+nouveau jour
+Voeux en attente de Adam : {}
+Propositions en attente de Adam : {Université Côte d'Azur}
+Voeux en attente de Leo : {Université Côte d'Azur(0)}
+Propositions en attente de Leo : {}
+Adam renonce à Université Côte d'Azur
+nouveau jour
+Voeux en attente de Adam : {}
+Propositions en attente de Adam : {}
+Voeux en attente de Leo : {}
+Propositions en attente de Leo : {Université Côte d'Azur}

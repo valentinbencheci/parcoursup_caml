@@ -1,0 +1,76 @@
+nouvelle session
+ajoute candidat Adam
+ajoute candidat Leo
+ajoute candidat Raphael
+ajoute candidat Louise
+ajoute candidat Alice
+ajoute candidat Emma
+ajoute formation Université Côte d'Azur (1 places)
+ajoute formation Université de Toulon (1 places)
+ajoute formation Université de Lyon (1 places)
+ajoute formation Université de Paris (1 places)
+ajoute formation Université de Grenoble (1 places)
+ajoute voeu de Adam pour Université Côte d'Azur (rang=1)
+ajoute voeu de Leo pour Université de Toulon (rang=1)
+ajoute voeu de Raphael pour Université de Lyon (rang=1)
+ajoute voeu de Louise pour Université de Paris (rang=1)
+ajoute voeu de Alice pour Université de Grenoble (rang=1)
+ajoute voeu de Emma pour Université Côte d'Azur (rang=5)
+ajoute voeu de Emma pour Université de Toulon
+ajoute voeu de Emma pour Université de Lyon (rang=0)
+ajoute voeu de Emma pour Université de Paris (rang=0)
+ajoute voeu de Emma pour Université de Grenoble
+commission de classement de Université Côte d'Azur : [Adam; Leo; Emma; Louise; Alice; Raphael]
+commission de classement de Université de Toulon : [Adam; Leo; Emma; Louise; Alice; Raphael]
+commission de classement de Université de Lyon : [Adam; Leo; Emma; Louise; Alice; Raphael]
+commission de classement de Université de Paris : [Adam; Leo; Emma; Louise; Alice; Raphael]
+commission de classement de Université de Grenoble : [Adam; Leo; Emma; Louise; Alice; Raphael]
+réunit commissions
+nouveau jour
+Voeux en attente de Adam : {}
+Propositions en attente de Adam : {Université Côte d'Azur}
+Voeux en attente de Leo : {}
+Propositions en attente de Leo : {Université de Toulon}
+Voeux en attente de Raphael : {Université de Lyon(0)}
+Propositions en attente de Raphael : {}
+Voeux en attente de Louise : {Université de Paris(0)}
+Propositions en attente de Louise : {}
+Voeux en attente de Alice : {Université de Grenoble(0)}
+Propositions en attente de Alice : {}
+Voeux en attente de Emma : {Université Côte d'Azur(0), Université de Toulon(0)}
+Propositions en attente de Emma : {Université de Lyon, Université de Paris, Université de Grenoble}
+Adam renonce à Université Côte d'Azur
+Leo renonce à Université de Toulon
+Raphael renonce à Université de Lyon
+Louise renonce à Université de Paris
+Alice renonce à Université de Grenoble
+nouveau jour
+Voeux en attente de Adam : {}
+Propositions en attente de Adam : {}
+Voeux en attente de Leo : {}
+Propositions en attente de Leo : {}
+Voeux en attente de Raphael : {}
+Propositions en attente de Raphael : {}
+Voeux en attente de Louise : {}
+Propositions en attente de Louise : {}
+Voeux en attente de Alice : {}
+Propositions en attente de Alice : {}
+Voeux en attente de Emma : {}
+Propositions en attente de Emma : {Université de Toulon, Université de Grenoble, Université de Paris, Université de Lyon}
+Emma renonce à Université de Paris
+Emma renonce à Université de Lyon
+Emma renonce à Université de Toulon
+Emma renonce à Université de Grenoble
+nouveau jour
+Voeux en attente de Adam : {}
+Propositions en attente de Adam : {}
+Voeux en attente de Leo : {}
+Propositions en attente de Leo : {}
+Voeux en attente de Raphael : {}
+Propositions en attente de Raphael : {}
+Voeux en attente de Louise : {}
+Propositions en attente de Louise : {}
+Voeux en attente de Alice : {}
+Propositions en attente de Alice : {}
+Voeux en attente de Emma : {}
+Propositions en attente de Emma : {}
